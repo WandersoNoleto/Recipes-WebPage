@@ -1,7 +1,7 @@
 # Recipes-WebPage
 
 <div align="center">
-  <img width="590px" height="380px" src="/doc/readme/mainpicture.gif"/><center>
+  <img width="540px" height="270px" src="/doc/readme/mainpicture.gif"/><center>
 <div/>
 
 <div align="left">
